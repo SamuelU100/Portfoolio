@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Itim', cursive;
+    font-family: 'Satisfy', cursive;
+    background-color: rgb(19, 53, 116);
+}
