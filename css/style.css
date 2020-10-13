@@ -96,13 +96,17 @@ span {
     border: none;
     color: rgb(0, 0, 0);
     border: 2.5px solid rgb(15, 9, 9);
-    padding: 15px 20px;
+    padding: 10px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     border-radius: 0%;
+    font-family: 'Ranchers', cursive;
+
   }
+
+  
 
   .cloud1 {
     position: absolute;
@@ -159,3 +163,47 @@ span {
     100%{left: 40%;top: 20% }
 }
 
+
+
+
+.sm a {
+    
+    width: 1.5rem;
+    height: 1.5rem;
+    transition: 0.4s;
+}
+
+.sm a:hover{
+    background-color: #0017e4b6;
+    color: #fff;
+    border-radius: 15%;
+   
+}
+
+.sm2 a {
+    
+    width: 1.5rem;
+    height: 1.5rem;
+    transition: 0.4s;
+}
+
+.sm2 a:hover{
+    background-color: #1dacd8c9;
+    color: #fff;
+    border-radius: 15%;
+   
+}
+
+.sm1 a {
+    
+    width: 1.5rem;
+    height: 1.5rem;
+    transition: 0.4s;
+}
+
+.sm1 a:hover{
+    background-color: #b61a3cea;
+    color: #fff;
+    border-radius: 15%;
+   
+}
